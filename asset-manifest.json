@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Compare-product/static/css/main.489f1cce.chunk.css",
+    "main.js": "/Compare-product/static/js/main.99a366d7.chunk.js",
+    "main.js.map": "/Compare-product/static/js/main.99a366d7.chunk.js.map",
+    "runtime-main.js": "/Compare-product/static/js/runtime-main.693631dd.js",
+    "runtime-main.js.map": "/Compare-product/static/js/runtime-main.693631dd.js.map",
+    "static/js/2.eb40492a.chunk.js": "/Compare-product/static/js/2.eb40492a.chunk.js",
+    "static/js/2.eb40492a.chunk.js.map": "/Compare-product/static/js/2.eb40492a.chunk.js.map",
+    "index.html": "/Compare-product/index.html",
+    "precache-manifest.b0c71eed8c339ac231f52181a324fff3.js": "/Compare-product/precache-manifest.b0c71eed8c339ac231f52181a324fff3.js",
+    "service-worker.js": "/Compare-product/service-worker.js",
+    "static/css/main.489f1cce.chunk.css.map": "/Compare-product/static/css/main.489f1cce.chunk.css.map",
+    "static/js/2.eb40492a.chunk.js.LICENSE.txt": "/Compare-product/static/js/2.eb40492a.chunk.js.LICENSE.txt",
+    "static/media/apple.png": "/Compare-product/static/media/apple.b0461f21.png",
+    "static/media/kiwi.png": "/Compare-product/static/media/kiwi.103cc150.png",
+    "static/media/mango.png": "/Compare-product/static/media/mango.a3f96b85.png",
+    "static/media/orange.png": "/Compare-product/static/media/orange.2e9f99aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.693631dd.js",
+    "static/js/2.eb40492a.chunk.js",
+    "static/css/main.489f1cce.chunk.css",
+    "static/js/main.99a366d7.chunk.js"
+  ]
+}
