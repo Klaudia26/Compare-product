@@ -1,0 +1,39 @@
+.wrapper {
+  margin: 30px auto;
+  width: 900px;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    border-radius: 3px;
+    background-color: #fff;
+  }
+  table thead {
+    border-bottom: 2px solid lightgrey;
+    width: 100%;
+  }
+
+  table thead th {
+    padding: 25px;
+    text-align: center;
+    border-bottom: 2px solid lightgrey;
+  }
+
+  table tbody {
+    text-align: left;
+  }
+
+  table tbody th {
+    padding: 25px;
+    text-align: left;
+    border-bottom: 1px solid lightgrey;
+    border-right: 1px solid lightgray;
+    background-color: #f9f9f9;
+  }
+
+  table tbody td {
+    border-bottom: 1px solid lightgrey;
+    text-align: center;
+  }
+}
